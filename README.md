@@ -6,7 +6,7 @@
 
 Esta plantilla esta echo en Gimp con modelo de capas, el archivo "cv.xcf" es totalmente editable y los archivos adicionales (fuentes y logos) se encuentran en la carpeta "archivos-fuentes".
 
-Este currículum esta echo por mi y cualquiera que así lo requiera lo puede editar a su gusto, pero solo se puede compartir si se cumples estas pautas: 
+Este currículum esta echo por mi y cualquiera que así lo requiera lo puede editar a su gusto, pero solo se puede compartir si se cumplen las siguientes pautas: 
 - en dicha edición se encuentran suprimidos mis datos personales (datos de Fabián Ramirez).
 - no es necesario que se atribuya un autor
 
